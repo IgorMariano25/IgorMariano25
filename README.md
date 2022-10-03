@@ -16,7 +16,7 @@
 
   <a target="blank" href="https://instagram.com/igor.mariano_"><img height="40" width="150" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
   <a target="blank" href = "mailto:igor-mariano@outlook.com"><img height="40" width="150" src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/igormarianodev/" target="_blank"><img height="40" width="150" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/igormarianodev/" target="_blank"><img height="40" width="150" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a target="blank" href="https://gitlab.com/IgorMariano25"><img height="40" width="150" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
  </div>
  
