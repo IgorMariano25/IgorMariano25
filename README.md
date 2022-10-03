@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on private projects on my University
 - 🌱 I’m currently learning OOP with java
-- 🌎 I’m trying to chenge the world 
+- 🌎 I’m trying to ***CHANGE THE WORLD***
 - 🤔 I’m looking for help with JavaScript
 - ⚡ Fun fact: I won money playing video games
 
