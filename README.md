@@ -1,4 +1,4 @@
-### Hi, welcome to my GitHub profile 👋
+## Hi, welcome to my GitHub profile 👋
 
 - 🔭 I’m currently working on private projects on my University
 - 🌱 I’m currently learning OOP with java
