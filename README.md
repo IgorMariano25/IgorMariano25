@@ -28,4 +28,5 @@
   <img align="center" alt="CSS-icon" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python-icon" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
+   ![Snake animation](https://github.com/IgorMariano25/IgorMariano25/blob/output/github-contribution-grid-snake.svg)
 </div>
