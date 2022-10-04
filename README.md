@@ -28,12 +28,11 @@
   <img align="center" alt="HTML-icon" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS-icon" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python-icon" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  ![Snake animation](https://github.com/IgorMariano25/IgorMariano25/blob/output/github-contribution-grid-snake.svg)
+</div>
 
-  <!-- <!-<details>
-    <summary>
-      <img align="center" height="500" width="800" src="https://wakatime.com/share/@0b71d094-f479-4007-b768-49233a5edaf4/46d7c5b6-4a3b-42f2-bc28-1a54a8ca24e1.svg"></img>
-    </summary>
-  </details> -->
- </div>
+## Code Activity 
+<div align="center">
+      <img align="center" height="600" width="1000" src="https://wakatime.com/share/@0b71d094-f479-4007-b768-49233a5edaf4/46d7c5b6-4a3b-42f2-bc28-1a54a8ca24e1.svg"></img>
+</div>
+
+![Snake animation](https://github.com/IgorMariano25/IgorMariano25/blob/output/github-contribution-grid-snake.svg)
