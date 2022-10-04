@@ -20,7 +20,7 @@
   <a target="blank" href="https://gitlab.com/IgorMariano25"><img height="40" width="200" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
  </div>
 
-## Technologies I use in my programming rotine
+## Technologies I use in my programming rotine 🖥️
 <div align="center">
   <img align="center" alt="Jav-icon" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="React-icon" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
