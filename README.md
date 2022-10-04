@@ -10,14 +10,12 @@
   <a href="https://github.com/IgorMariano25">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=IgorMariano25&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMariano25&layout=compact&langs_count=7&theme=github_dark&"/>
-
-<br><br>
 </div>
 
 ## Contact me 📧
 <div align="center">
   <a target="blank" href="https://instagram.com/igor.mariano_"><img height="40" width="200" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
-  <a target="blank" href = "mailto:igor-mariano@outlook.com"><img height="40" width="200" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a target="blank" href = "mailto:igor-mariano@outlook.com"><img height="40" width="230" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/igormarianodev/" target="_blank"><img height="40" width="200" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a target="blank" href="https://gitlab.com/IgorMariano25"><img height="40" width="200" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
  </div>
