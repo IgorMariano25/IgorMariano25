@@ -6,6 +6,9 @@
 - 🤔 I’m looking for help with JavaScript
 - ⚡ Fun fact: I won money playing video games
 
+| <a href="https://github.com/IgorMariano25/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorMariano25&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="Igor Mariano's github stats" /></a> | <a href="https://github.com/IgorMariano25/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMariano25&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <div align="center">
   <a href="https://github.com/IgorMariano25">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=IgorMariano25&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
