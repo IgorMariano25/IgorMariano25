@@ -1,4 +1,5 @@
 ## Hi, welcome to my GitHub profile 👋
+### **Just a tip, use GitHub in dark mode and make good use of my profile apresentation** 😄
 
 - 🔭 I’m currently working on private projects on my University
 - 🌱 I’m currently learning OOP with java
