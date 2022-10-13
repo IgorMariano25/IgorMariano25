@@ -31,6 +31,8 @@
 </div>
 
 ## Code Activity 
+#### ***Total time coded since Oct 3 2022***
+<p><a href="https://wakatime.com/@0b71d094-f479-4007-b768-49233a5edaf4"><img height="30" width="280"src="https://wakatime.com/badge/user/0b71d094-f479-4007-b768-49233a5edaf4.svg" alt="Total time coded since Oct 3 2022"</img></a></p>
 <div align="center">
       <img  height="600" width="1000" src="https://wakatime.com/share/@0b71d094-f479-4007-b768-49233a5edaf4/46d7c5b6-4a3b-42f2-bc28-1a54a8ca24e1.svg"></img>
 </div>
