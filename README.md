@@ -2,7 +2,7 @@
 ### ***Just a tip, use GitHub in dark mode and a make good use of my profile apresentation*** 😄
 
 - 🔭 I’m currently working on private projects on my University
-- 🌱 I’m currently learning OOP with java
+- 🌱 I’m currently learning GIT and ther functionalities
 - 🌎 I’m trying to ***CHANGE THE WORLD***
 - 🤔 I’m looking for help with JavaScript
 - ⚡ Fun fact: I won money playing video games
