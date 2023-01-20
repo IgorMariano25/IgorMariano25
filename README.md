@@ -44,7 +44,7 @@
       <img  height="600" width="1000" src="https://wakatime.com/share/@0b71d094-f479-4007-b768-49233a5edaf4/46d7c5b6-4a3b-42f2-bc28-1a54a8ca24e1.svg"></img>
 </div>
 
-<!--- ![Snake animation](https://github.com/IgorMariano25/IgorMariano25/blob/output/github-contribution-grid-snake.svg) --->
+![Snake animation](https://github.com/IgorMariano25/IgorMariano25/blob/output/github-contribution-grid-snake.svg)
 
   <!-- <!-<details>
     <summary>
