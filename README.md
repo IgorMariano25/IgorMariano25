@@ -22,7 +22,7 @@
 
 ## Technologies I use in my programming rotine 🖥️
 <div align="center">
-  <img alt="Jav-icon" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Java-icon" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="React-icon" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Js-icon" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML-icon" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
