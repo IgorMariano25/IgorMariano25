@@ -29,7 +29,8 @@
  
 ## Technologies I use in my programming rotine 🖥️
 <div align="center">
- <img alt="Android-Studio-logo-Icon" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img alt="VS-Code-logo-Icon" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img alt="Android-Studio-logo-Icon" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img alt="Kotlin-logo-icon" height="45" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img alt="Java-logo-icon" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="C-logo-icon" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
