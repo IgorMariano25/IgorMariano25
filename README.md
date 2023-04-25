@@ -1,16 +1,23 @@
 ## Hi, welcome to my GitHub profile 👋
-### **Just a tip, use GitHub in dark mode and make good use of my profile apresentation** 😄
+### ***Just a tip, use GitHub in dark mode and a make good use of my profile apresentation*** 😄
 
 - 🔭 I’m currently working on private projects on my University
-- 🌱 I’m currently learning OOP with java
+- 🌱 I’m currently learning GIT and ther functionalities
 - 🌎 I’m trying to ***CHANGE THE WORLD***
 - 🤔 I’m looking for help with JavaScript
 - ⚡ Fun fact: I won money playing video games
 
- <a href="https://github.com/IgorMariano25/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorMariano25&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="Igor Mariano's github stats" /></a>  <a href="https://github.com/IgorMariano25/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMariano25&layout=compact&theme=github_dark&hide_border=true" /></a>
+<div align="center">
+ <a href="https://github.com/IgorMariano25/github-readme-stats"><img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=IgorMariano25&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="Igor Mariano's github stats" /></a>  <a href="https://github.com/IgorMariano25/github-readme-stats"><img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMariano25&layout=compact&theme=github_dark&hide_border=true" /></a>
+</div>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IgorMariano25&theme=github-dark-blue&border_radius=7.5&hide_border=true)](https://git.io/streak-stats)
+
+<!-- Jim carrey Meme
+ <div>
+  <img width="480px" src="https://user-images.githubusercontent.com/89418737/199232610-b9c0376f-9a95-4826-901b-ee1c42c5d011.gif"></img> 
+ </div> -->
 
 ## Contact me 📧
 <div align="center">
@@ -19,15 +26,17 @@
   <a href="https://www.linkedin.com/in/igormarianodev/" target="_blank"><img height="40" width="200" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://gitlab.com/IgorMariano25" target="_blank"><img height="40" width="200" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
  </div>
-
+ 
 ## Technologies I use in my programming rotine 🖥️
 <div align="center">
-  <img alt="Java-icon" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="React-icon" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Js-icon" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML-icon" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS-icon" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Python-icon" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img alt="Android-Studio-logo-Icon" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img alt="Kotlin-logo-icon" height="45" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img alt="Java-logo-icon" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="React-logo-icon" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Js-logo-icon" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="HTML-logo-icon" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS-logo-icon" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Python-logo-icon" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ## Code Activity 
