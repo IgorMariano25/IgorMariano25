@@ -13,7 +13,7 @@
 
 <div align="center">
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=IgorMariano25&theme=github-dark-blue&border_radius=7.5&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IgorMariano25&theme=aura&border_radius=7.5&hide_border=true)](https://git.io/streak-stats)
 
 
 <img height="225em" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorMariano25&theme=tokyonight" />
